@@ -1,0 +1,2 @@
+serviceClass: com.example.betting.client.GreetingService
+path: 02AB24BAB560CAD9EC3A29657E289CB1.gwt.rpc
